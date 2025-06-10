@@ -1,5 +1,5 @@
-### Data Scientist
-# Techniqual Skills:
-# Work Experience 
-# Education
-# Projects 
+# Data Scientist
+### Techniqual Skills:
+### Work Experience 
+### Education
+### Projects 
